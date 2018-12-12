@@ -26,7 +26,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@adobe/cq-angular-editable-components": "~1.1.0",
+    "@adobe/cq-angular-editable-components": "~1.1.1",
     "@adobe/cq-spa-component-mapping": "~1.0.3",
     "@adobe/cq-spa-page-model-manager": "~1.0.5",
     "@angular/animations": "^6.0.0",
