@@ -82,7 +82,7 @@
             "codeCoverage": true,
             "styles": [
               {
-                "input": "styles.css"
+                "input": "src/styles.css"
               }
             ],
             "scripts": [],
